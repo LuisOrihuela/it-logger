@@ -2,24 +2,24 @@
   "logs": [
     {
       "id": 1,
-      "message": "Changed hard drive on workstation 005",
+      "message": "log UPDATE",
       "attention": false,
-      "date": "03-02-2019",
-      "tech": "Sam Smith"
+      "tech": "Sara Wilson",
+      "date": "2020-01-24T05:53:49.847Z"
     },
     {
-      "id": 2,
-      "message": "Workstation 007 not posting",
+      "message": "Replaced hardrive in server 009",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2020-01-28T03:19:03.528Z",
+      "id": 2
+    },
+    {
+      "message": "Internet not working on server 003",
       "attention": true,
-      "date": "03-02-2019",
-      "tech": "John Doe"
-    },
-    {
-      "id": 3,
-      "message": "Changed memory on workstation 050",
-      "attention": false,
-      "date": "03-02-2019",
-      "tech": "Sara Wilson"
+      "tech": "Sara Wilson",
+      "date": "2020-01-28T03:19:30.241Z",
+      "id": 3
     }
   ],
   "techs": [
